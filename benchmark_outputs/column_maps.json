@@ -1,0 +1,59 @@
+{
+  "influenza_detection": {
+    "년도": "year",
+    "주": "week",
+    "연령": "age_group",
+    "검출률": "detection_rate"
+  },
+  "income_percentile": {
+    "구분": "percentile_group",
+    "인원": "num_people",
+    "총급여": "total_salary",
+    "근로소득금액": "earned_income",
+    "소득공제금액": "income_deduction",
+    "과세표준": "tax_base",
+    "결정세액": "determined_tax"
+  },
+  "child_welfare_facility": {
+    "군구별": "district",
+    "양육시설_시설수": "care_facility_count",
+    "양육시설_입소자": "care_admissions",
+    "양육시설_퇴소자": "care_discharges",
+    "양육시설_현재 생활인원": "care_current_residents",
+    "기타_시설수": "other_facility_count",
+    "기타_입소자": "other_admissions",
+    "기타_퇴소자": "other_discharges",
+    "기타_현재 생활인원": "other_current_residents"
+  },
+  "child_protection": {
+    "구분": "district",
+    "총아동발생수": "total_child_cases",
+    "귀가및연고자인도": "returned_to_guardian",
+    "보호대상아동의 발생원인": "protected_child_case_count",
+    "유기": "abandonment",
+    "미혼부모_혼외자": "unmarried_parent_nonmarital_child",
+    "미아": "missing_child",
+    "비행_가출_부랑": "delinquency_runaway_vagrancy",
+    "학대": "abuse",
+    "부모빈곤_실직": "parent_poverty_unemployment",
+    "부모사망": "parent_death",
+    "부모질병": "parent_illness",
+    "부모이혼등": "parent_divorce_etc",
+    "성별": "gender_total",
+    "남": "male",
+    "여": "female",
+    "장애여부": "disability_total",
+    "비장애": "non_disabled",
+    "장애": "disabled",
+    "양육시설": "care_facility",
+    "일시보호시설": "temporary_protection_facility",
+    "장애아동시설": "facility_for_children_with_disabilities",
+    "공동생활가정": "group_home",
+    "기타시설": "other_facility",
+    "소년소녀가정": "child_headed_household",
+    "입양": "adoption",
+    "보호출산": "protected_birth",
+    "가정위탁": "foster_care",
+    "입양전위탁": "pre_adoption_foster_care"
+  }
+}

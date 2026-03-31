@@ -1,0 +1,11 @@
+pandas
+numpy
+tqdm
+tabulate
+jsonlines
+pyyaml
+openai
+scikit-learn
+matplotlib
+seaborn
+chardet
