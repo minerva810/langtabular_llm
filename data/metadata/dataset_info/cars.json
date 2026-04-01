@@ -1,0 +1,34 @@
+{
+  "dataset_name": "cars",
+  "group": "text",
+  "num_rows": 1728,
+  "num_columns": 7,
+  "text_columns_ko": [
+    "buying",
+    "maint",
+    "doors",
+    "persons",
+    "lug_boot",
+    "safety",
+    "class"
+  ],
+  "numeric_columns_ko": [],
+  "columns_ko": [
+    "buying",
+    "maint",
+    "doors",
+    "persons",
+    "lug_boot",
+    "safety",
+    "class"
+  ],
+  "columns_en": [
+    "buying",
+    "maint",
+    "doors",
+    "persons",
+    "lug_boot",
+    "safety",
+    "class"
+  ]
+}

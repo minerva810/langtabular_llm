@@ -1,0 +1,10 @@
+{
+  "gender": "gender",
+  "race/ethnicity": "race_ethnicity",
+  "parental level of education": "parental_education",
+  "lunch": "lunch",
+  "test preparation course": "test_preparation_course",
+  "math score": "math_score",
+  "reading score": "reading_score",
+  "writing score": "writing_score"
+}

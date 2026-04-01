@@ -1,0 +1,9 @@
+{
+  "사고유형대분류": {
+    "차대사람": "vehicle_to_pedestrian",
+    "차대차": "vehicle_to_vehicle",
+    "차량단독": "single_vehicle"
+  },
+  "사고유형중분류": {},
+  "사고유형": {}
+}

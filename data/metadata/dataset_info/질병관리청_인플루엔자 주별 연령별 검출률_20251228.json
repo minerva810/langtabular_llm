@@ -1,0 +1,26 @@
+{
+  "dataset_name": "질병관리청_인플루엔자 주별 연령별 검출률_20251228",
+  "group": "numeric",
+  "num_rows": 1254,
+  "num_columns": 4,
+  "text_columns_ko": [
+    "연령"
+  ],
+  "numeric_columns_ko": [
+    "년도",
+    "주",
+    "검출률"
+  ],
+  "columns_ko": [
+    "년도",
+    "주",
+    "연령",
+    "검출률"
+  ],
+  "columns_en": [
+    "year",
+    "week",
+    "age_group",
+    "detection_rate"
+  ]
+}

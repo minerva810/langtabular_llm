@@ -1,0 +1,9 @@
+{
+  "구분": "percentile_group",
+  "인원": "num_people",
+  "총급여": "total_salary",
+  "근로소득금액": "earned_income",
+  "소득공제금액": "income_deduction",
+  "과세표준": "tax_base",
+  "결정세액": "determined_tax"
+}

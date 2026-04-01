@@ -1,0 +1,10 @@
+{
+  "사고유형대분류": "accident_type_major",
+  "사고유형중분류": "accident_type_mid",
+  "사고유형": "accident_type",
+  "사고건수": "num_accidents",
+  "사망자수": "num_deaths",
+  "중상자수": "serious_injuries",
+  "경상자수": "minor_injuries",
+  "부상신고자수": "reported_injuries"
+}

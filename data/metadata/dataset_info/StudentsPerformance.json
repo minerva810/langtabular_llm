@@ -1,0 +1,38 @@
+{
+  "dataset_name": "StudentsPerformance",
+  "group": "mixed",
+  "num_rows": 1000,
+  "num_columns": 8,
+  "text_columns_ko": [
+    "gender",
+    "race/ethnicity",
+    "parental level of education",
+    "lunch",
+    "test preparation course"
+  ],
+  "numeric_columns_ko": [
+    "math score",
+    "reading score",
+    "writing score"
+  ],
+  "columns_ko": [
+    "gender",
+    "race/ethnicity",
+    "parental level of education",
+    "lunch",
+    "test preparation course",
+    "math score",
+    "reading score",
+    "writing score"
+  ],
+  "columns_en": [
+    "gender",
+    "race_ethnicity",
+    "parental_education",
+    "lunch",
+    "test_preparation_course",
+    "math_score",
+    "reading_score",
+    "writing_score"
+  ]
+}

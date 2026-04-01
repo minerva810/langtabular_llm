@@ -1,0 +1,14 @@
+{
+  "Age": "age",
+  "Sex": "sex",
+  "ChestPainType": "chest_pain_type",
+  "RestingBP": "resting_bp",
+  "Cholesterol": "cholesterol",
+  "FastingBS": "fasting_bs",
+  "RestingECG": "resting_ecg",
+  "MaxHR": "max_hr",
+  "ExerciseAngina": "exercise_angina",
+  "Oldpeak": "oldpeak",
+  "ST_Slope": "st_slope",
+  "HeartDisease": "heart_disease"
+}

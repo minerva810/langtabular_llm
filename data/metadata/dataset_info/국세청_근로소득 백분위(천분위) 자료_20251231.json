@@ -1,0 +1,35 @@
+{
+  "dataset_name": "국세청_근로소득 백분위(천분위) 자료_20251231",
+  "group": "numeric",
+  "num_rows": 109,
+  "num_columns": 7,
+  "text_columns_ko": [
+    "구분"
+  ],
+  "numeric_columns_ko": [
+    "인원",
+    "총급여",
+    "근로소득금액",
+    "소득공제금액",
+    "과세표준",
+    "결정세액"
+  ],
+  "columns_ko": [
+    "구분",
+    "인원",
+    "총급여",
+    "근로소득금액",
+    "소득공제금액",
+    "과세표준",
+    "결정세액"
+  ],
+  "columns_en": [
+    "percentile_group",
+    "num_people",
+    "total_salary",
+    "earned_income",
+    "income_deduction",
+    "tax_base",
+    "determined_tax"
+  ]
+}

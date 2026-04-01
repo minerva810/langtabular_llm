@@ -1,0 +1,59 @@
+{
+  "dataset_name": "laptop_price - dataset",
+  "group": "text",
+  "num_rows": 1275,
+  "num_columns": 15,
+  "text_columns_ko": [
+    "Company",
+    "Product",
+    "TypeName",
+    "ScreenResolution",
+    "CPU_Company",
+    "CPU_Type",
+    "Memory",
+    "GPU_Company",
+    "GPU_Type",
+    "OpSys"
+  ],
+  "numeric_columns_ko": [
+    "Inches",
+    "CPU_Frequency (GHz)",
+    "RAM (GB)",
+    "Weight (kg)",
+    "Price (Euro)"
+  ],
+  "columns_ko": [
+    "Company",
+    "Product",
+    "TypeName",
+    "Inches",
+    "ScreenResolution",
+    "CPU_Company",
+    "CPU_Type",
+    "CPU_Frequency (GHz)",
+    "RAM (GB)",
+    "Memory",
+    "GPU_Company",
+    "GPU_Type",
+    "OpSys",
+    "Weight (kg)",
+    "Price (Euro)"
+  ],
+  "columns_en": [
+    "Company",
+    "Product",
+    "TypeName",
+    "Inches",
+    "ScreenResolution",
+    "CPU_Company",
+    "CPU_Type",
+    "CPU_Frequency (GHz)",
+    "RAM (GB)",
+    "Memory",
+    "GPU_Company",
+    "GPU_Type",
+    "OpSys",
+    "Weight (kg)",
+    "Price (Euro)"
+  ]
+}

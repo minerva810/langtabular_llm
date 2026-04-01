@@ -1,0 +1,38 @@
+{
+  "dataset_name": "한국도로교통공단_사고유형별 교통사고 통계_20241231",
+  "group": "mixed",
+  "num_rows": 14,
+  "num_columns": 8,
+  "text_columns_ko": [
+    "사고유형대분류",
+    "사고유형중분류",
+    "사고유형"
+  ],
+  "numeric_columns_ko": [
+    "사고건수",
+    "사망자수",
+    "중상자수",
+    "경상자수",
+    "부상신고자수"
+  ],
+  "columns_ko": [
+    "사고유형대분류",
+    "사고유형중분류",
+    "사고유형",
+    "사고건수",
+    "사망자수",
+    "중상자수",
+    "경상자수",
+    "부상신고자수"
+  ],
+  "columns_en": [
+    "accident_type_major",
+    "accident_type_mid",
+    "accident_type",
+    "num_accidents",
+    "num_deaths",
+    "serious_injuries",
+    "minor_injuries",
+    "reported_injuries"
+  ]
+}

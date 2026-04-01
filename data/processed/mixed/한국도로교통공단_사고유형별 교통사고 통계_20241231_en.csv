@@ -1,0 +1,15 @@
+﻿accident_type_major,accident_type_mid,accident_type,num_accidents,num_deaths,serious_injuries,minor_injuries,reported_injuries
+vehicle_to_pedestrian,횡단중,횡단중,13725,432,6140,7258,676
+vehicle_to_pedestrian,차도통행중,차도통행중,3551,126,1358,1886,306
+vehicle_to_pedestrian,길가장자리구역통행중,길가장자리구역통행중,2074,28,599,1318,209
+vehicle_to_pedestrian,보도통행중,보도통행중,2260,23,686,1437,233
+vehicle_to_pedestrian,기타,기타,14737,273,4643,8961,1603
+vehicle_to_vehicle,추돌,추돌,30745,343,6590,43616,3246
+vehicle_to_vehicle,기타,기타,44496,248,9702,49558,4960
+vehicle_to_vehicle,충돌,충돌,76795,517,18660,88876,7041
+single_vehicle,충돌,충돌,2588,271,1221,1421,542
+single_vehicle,도로이탈,도로이탈 추락,311,58,166,130,42
+single_vehicle,도로이탈,도로이탈 기타,135,8,70,67,24
+single_vehicle,기타,기타,4023,98,1367,2380,577
+single_vehicle,전도/전복,전도/전복,907,94,351,363,199
+철길건널목,철길건널목,철길건널목,2,2,0,0,0

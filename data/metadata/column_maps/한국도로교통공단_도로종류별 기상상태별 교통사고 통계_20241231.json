@@ -1,0 +1,9 @@
+{
+  "도로종류": "road_type",
+  "기상상태": "weather_condition",
+  "사고건수": "num_accidents",
+  "사망자수": "num_deaths",
+  "중상자수": "serious_injuries",
+  "경상자수": "minor_injuries",
+  "부상신고자수": "reported_injuries"
+}

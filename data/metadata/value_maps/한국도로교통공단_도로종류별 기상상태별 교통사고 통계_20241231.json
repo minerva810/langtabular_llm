@@ -1,0 +1,19 @@
+{
+  "도로종류": {
+    "고속도로": "expressway",
+    "일반국도": "national highway",
+    "특별광역시도": "metropolitan city road",
+    "지방도": "provincial road",
+    "시도": "city road",
+    "군도": "county road",
+    "기타": "other"
+  },
+  "기상상태": {
+    "맑음": "clear",
+    "흐림": "cloudy",
+    "비": "rain",
+    "안개": "fog",
+    "눈": "snow",
+    "기타/불명": "other_or_unknown"
+  }
+}

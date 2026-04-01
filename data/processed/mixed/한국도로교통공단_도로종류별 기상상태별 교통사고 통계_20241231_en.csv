@@ -1,0 +1,43 @@
+﻿road_type,weather_condition,num_accidents,num_deaths,serious_injuries,minor_injuries,reported_injuries
+national highway,clear,19426,397,5566,21686,2303
+national highway,cloudy,988,28,304,1037,114
+national highway,rain,1386,46,447,1591,128
+national highway,fog,25,5,9,23,0
+national highway,snow,160,4,42,192,22
+national highway,other_or_unknown,322,5,90,349,33
+provincial road,clear,10061,204,3181,10597,1034
+provincial road,cloudy,684,27,215,693,88
+provincial road,rain,822,15,283,821,100
+provincial road,fog,18,0,7,18,1
+provincial road,snow,102,2,32,118,13
+provincial road,other_or_unknown,225,2,61,219,32
+metropolitan city road,clear,68972,497,16097,71348,6261
+metropolitan city road,cloudy,2294,33,580,2387,189
+metropolitan city road,rain,5044,38,1271,5217,417
+metropolitan city road,fog,4,1,1,1,1
+metropolitan city road,snow,309,1,61,352,18
+metropolitan city road,other_or_unknown,937,7,228,942,86
+city road,clear,54701,578,14099,57118,5544
+city road,cloudy,2066,49,610,2081,185
+city road,rain,3977,50,1164,4155,375
+city road,fog,38,3,15,30,2
+city road,snow,391,1,64,436,38
+city road,other_or_unknown,464,8,117,423,77
+county road,clear,6556,208,2521,5994,486
+county road,cloudy,319,6,157,272,16
+county road,rain,470,18,177,439,39
+county road,fog,17,0,9,9,0
+county road,snow,37,2,18,37,4
+county road,other_or_unknown,38,0,16,38,2
+고속국도,clear,4631,154,1390,7618,757
+고속국도,cloudy,167,15,55,280,24
+고속국도,rain,415,15,204,668,64
+고속국도,fog,8,1,4,6,1
+고속국도,snow,65,2,28,103,16
+고속국도,other_or_unknown,25,0,4,39,3
+other,clear,8747,79,2089,8456,1015
+other,cloudy,345,7,87,340,46
+other,rain,489,9,123,488,40
+other,fog,5,0,2,4,0
+other,snow,67,2,10,67,14
+other,other_or_unknown,532,2,115,579,70
