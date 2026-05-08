@@ -1,0 +1,7 @@
+{
+  "source_name": "UCI Machine Learning Repository - Iris",
+  "source_url": "...",
+  "license": "CC BY 4.0",
+  "processed_by": "column selection + Korean header translation",
+  "paired_guarantee": true
+}

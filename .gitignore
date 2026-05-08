@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+.env
+.vscode/
+
+external_data/raw/
+
+experiments/predictions/
+experiments/results/
+
+dataset/tables/
+dataset/serialized/
+
+*.log
